@@ -22,7 +22,7 @@ import { TranslocoHttpLoader } from './transloco.http-loader';
                   label: 'Deutsch'
               }
           ],
-          defaultLang         : 'en',
+          defaultLang         : 'de',
           fallbackLang        : 'en',
           reRenderOnLangChange: true,
           prodMode            : environment.production
